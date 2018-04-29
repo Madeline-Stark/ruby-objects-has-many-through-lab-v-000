@@ -11,8 +11,8 @@ class Doctor
     appointment.doctor = self
   end
 
-  def songs
-    @songs
+  def appointments
+    @appointments
   end
 
   def genres
